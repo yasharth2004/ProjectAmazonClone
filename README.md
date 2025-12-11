@@ -4,9 +4,6 @@
 
 A static frontend clone of the Amazon.com homepage. This project replicates the core layout and visual styling of the desktop interface using HTML5 and vanilla CSS3. It focuses on Flexbox layouts, navigation structure, and component positioning.
 
-## 📸 Preview
-
-![Project Preview](https://via.placeholder.com/800x400?text=Amazon+Clone+Preview)
 
 ## ✨ Features
 
